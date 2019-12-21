@@ -1,1 +1,3 @@
-# Books-Management-System
+# Books-Management-System 图书管理系统
+
+此项目来自自学途中一次项目练习，采用jsp开发，前端使用了`xadmin`框架，在学习中发现了自己的很多问题，代码质量也很垃圾。但是闭门造车无法学到真东西，因此厚着脸皮把这份见不得人的代码公开。
